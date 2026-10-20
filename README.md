@@ -32,3 +32,10 @@ La gran mayoría de los métodos de pago utilizados fueron por medio de tarjeta,
 ---
 ![Ticket promedio](assets/ticket_promedio.png)
 El cliente en promedio realizó compras por este monto en promedio.
+
+### Herramientas usadas:
+
+* Power BI.
+* DAX.
+* Power Query.
+* Excel.
